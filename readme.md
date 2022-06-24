@@ -1,5 +1,5 @@
 <h1>Q.No-1</h1>
-    <img src="./images/question1.png">
+    <img src="/images/question1.png">
 
 <h1>Q.No-2</h1>
     <img src="./images/question2.png">
